@@ -16,7 +16,7 @@
     "express",
     "mongodb"
   ],
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "@google/genai": "^2.15.0",
     "bcrypt": "^6.0.0",
